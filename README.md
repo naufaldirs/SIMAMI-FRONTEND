@@ -1,1 +1,3 @@
 # SIMAMI
+# Project Seleksi Masuk STMI
+TIM DEVELOPER SA02
