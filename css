@@ -13,7 +13,7 @@
 	border-radius: 100%;
 }
 .bg{
-	background-image: url(../img/bg.png);
+	background-image: url();
 	background-size: auto;
 }
 .tmbl{
@@ -79,8 +79,7 @@
 }
 .tptb{
 	background-color:transparent;
-	color: #49BE55;
-	
+	color: #00B0FF;
 }
 .form{
 	font-weight: bold;
@@ -144,4 +143,7 @@
 	background-image: url(../img/kelapa.png);
 	background-repeat: no-repeat;
 	background-size: cover;
+}
+.float{
+	float: right;
 }
